@@ -56,7 +56,7 @@
 * terminal:
   
 	> ```js
-	> git clone https://github.com/Chanwoochan/RC2026_student.git rok3_study_pkgs
+	> git clone https://github.com/swan0421/RC2026_student.git rok3_study_pkgs
 	
 	
 4. `rok3_model` 폴더를 `Home/.gazebo/models/` 폴더로 가져와서 시뮬레이션을 위한 파일 셋팅을 마무리합니다.  
