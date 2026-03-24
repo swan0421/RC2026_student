@@ -59,11 +59,17 @@
 	> git clone https://github.com/swan0421/RC2026_student.git rok3_study_pkgs
 	
 	
-4. `rok3_model` 폴더를 `Home/.gazebo/models/` 폴더로 가져와서 시뮬레이션을 위한 파일 셋팅을 마무리합니다.  
+4. `rok3_model` 폴더를 `Home/.gazebo/models/` 폴더로 가져와서 시뮬레이션을 위한 파일 셋팅을 마무리합니다.
+###### *(Gazebo 설치가 필요하다면 아래 명령어 실행)
+* terminal:
+  > ```js
+  > sudo apt-get -y install gazebo
+  > mkdir -p ~/.gazebo/models
+
 ***(`.gazebo` 폴더가 보이지 않으면,  Home 폴더에서, `Ctrl+H` 를 눌러서 폴더 숨김 해제를 할 것)***  
 ***(Gazebo를 실행한 적이 없는 경우, 숨김해제를 하여도 폴더가 보이지 않을 수 있음. Terminal 에서 `gazebo`를 입력하여 한번 실행해준 후 다시 확인할 것)***
-         
-5. 패키지를 컴파일하기 전에, section 2를 진행하시기 바랍니다.
+  
+6. 패키지를 컴파일하기 전에, section 2를 진행하시기 바랍니다.
 ----
 
 ### 2.Libraries used in rok3_study_pkgs Package
