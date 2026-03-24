@@ -8,7 +8,7 @@
 * What to do before simulation
 
 * Simulation Manual
-  1. [Download](https://github.com/chanwoochan/RC2026_student) and Setting RC2026_student
+  1. [Download](https://github.com/swan0421/RC2026_student) and Setting RC2026_student
   2. Libraries used in rok3_study_pkgs Package
   3. How to run rok3_study_pkgs package, **Please read section 2 before proceeding.**
 ----
@@ -47,8 +47,8 @@
 ----
 
 ## Simulation Manual 
-### 1.[Download](https://github.com/chanwoochan/RC2026_student) and Setting RC2026_student
-1. [RC2026_student Repository](https://github.com/swan0421/RC2026_student.git)에 접속, link : https://github.com/swan0421/RC2026_student.git
+### 1.[Download](https://github.com/swan0421/RC2026_student) and Setting RC2026_student
+1. [RC2026_student Repository](https://github.com/swan0421/RC2026_student)에 접속, link : https://github.com/swan0421/RC2026_student
 
 2. 복제된 Repository에 접속 후에, `Code ▼`라는 초록색 버튼이 있는데 클릭하여 URL 주소 (https:/~)을 복사합니다.
 
