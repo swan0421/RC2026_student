@@ -48,7 +48,7 @@
 
 ## Simulation Manual 
 ### 1.[Download](https://github.com/chanwoochan/RC2026_student) and Setting RC2026_student
-1. [RC2026_student Repository](https://github.com/Chanwoochan/RC2026_student.git)에 접속, link : https://github.com/Chanwoochan/RC2026_student.git
+1. [RC2026_student Repository](https://github.com/swan0421/RC2026_student.git)에 접속, link : https://github.com/swan0421/RC2026_student.git
 
 2. 복제된 Repository에 접속 후에, `Code ▼`라는 초록색 버튼이 있는데 클릭하여 URL 주소 (https:/~)을 복사합니다.
 
