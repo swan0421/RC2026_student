@@ -40,6 +40,7 @@
 > # SET ROS ALIAS
 > alias cb='cd ~/rok3_ws && colcon build'
 > alias rok3env='source ~/rok3_ws/install/setup.bash'
+> export GAZEBO_PLUGIN_PATH=~/rok3_ws/build/rok3_study_pkgs/ $GAZEBO_PLUGIN_PATH
 
 * terminal:
 > ```js
