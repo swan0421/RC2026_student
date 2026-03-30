@@ -163,7 +163,7 @@ RBDL의 설치를 권장합니다.
     <include>
       <uri>model://rok3_model</uri>
       <pose frame=''>0 0 1.947 0 0 0</pose>
-      <plugin name="rok3_plugin" filename="librok3_study_pkgs.so"/> 
+      <plugin name="rok3_plugin" filename="librok3.so"/> 
     </include>
   </world>
 </sdf>
@@ -180,7 +180,7 @@ RBDL의 설치를 권장합니다.
     <include>
       <uri>model://rok3_model</uri>
       <pose frame=''>0 0 0.947 0 0 0</pose>
-      <plugin name="rok3_plugin" filename="librok3_study_pkgs.so"/> 
+      <plugin name="rok3_plugin" filename="librok3.so"/> 
     </include>
   </world>
 </sdf>
